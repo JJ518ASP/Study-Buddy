@@ -1,6 +1,6 @@
 # Study Buddy
 
-Final project for the Building AI course
+Final project idea for the Building AI course
 
 ## Summary
 
